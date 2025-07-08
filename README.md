@@ -24,7 +24,7 @@ Spin it up once, code in any language you like (Python → Erlang), and keep you
 | **Dart** | Google APT repo | `apt-get` |
 | **Erlang** | Ubuntu repos | `apt-get` |
 
-> The Dockerfile (see [`dockerfile`](dockerfile)) shows the exact commands and install flags. :contentReference[oaicite:0]{index=0}
+> The Dockerfile (see [`dockerfile`](dockerfile)) shows the exact commands and install flags.
 
 ---
 
